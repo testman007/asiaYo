@@ -1,0 +1,32 @@
+{
+  "name": "asiayo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "16.20.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/testman007/asiaYo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/testman007/asiaYo/issues"
+  },
+  "homepage": "https://github.com/testman007/asiaYo#readme",
+  "dependencies": {
+    "koa": "^2.13.4",
+    "koa-router": "^12.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0",
+    "should": "^13.2.3",
+    "sinon": "^15.2.0",
+    "supertest": "^6.3.3"
+  }
+}
